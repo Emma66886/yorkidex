@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont,
+    'Neue Montreal",Inter,Segoe UI,Oxygen,Ubuntu,Roboto,Fira Sans,Helvetica Neue,system-ui,sans-serif';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: NeueBit, system-ui, monospace;
+}
